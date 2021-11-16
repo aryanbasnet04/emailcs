@@ -1,0 +1,438 @@
+.h1{
+    text-align: center;
+    /* background-color: black; */
+    color: white;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.interesting{
+    height: 84vh;
+    width: 64vw;
+}
+.emailusesh1{
+    color: red;
+    text-align: center;
+}
+
+.tb{
+    border: 2px solid aqua;
+}
+nav{
+    /* background-color: rgb(37, 33, 33); */
+    background-color: #212529;
+    height: 4vh;
+}
+.workingemail{
+    transform: translate(350px);
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border: 1px solid brown;
+}
+.introduction{
+    padding-left: 4vw;
+    padding-right: 4vw;
+    
+}
+.advantages{
+    padding-left: 4vw;
+    padding-right: 4vw;
+}
+.disadvantages{
+    padding-left: 4vw;
+    padding-right: 4vw;
+}
+.uses{
+    padding-left: 4vw;
+    padding-right: 4vw;
+}
+.origin{
+    padding-left: 4vw;
+    padding-right: 4vw;
+}
+a:hover{
+    background-color: red;
+    width: 12px;
+    height: 1000vh;
+    color: black;
+}
+.menu{
+    background-color: black;
+    font-size: 28px;
+    text-align: center;
+    color: rgba(236, 27, 27, 0.842);    
+}
+.firstname{
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    border: 2px solid brown;
+}
+.members-group{
+    border: 2px solid brown;
+
+}
+.csemail{
+    color: red;
+    /* background-color: ; */
+}
+.nameofstudents{
+    color: red;
+    text-align: center;
+    border: 2px solid brown;
+}
+.start{
+    text-align: center;
+    position: relative;
+    left: 43vw;
+    top: 43vh;
+    font-size: 30px;
+   
+}
+.working{
+    padding-left: 4vw;
+    padding-right: 4vw;
+}
+.email{
+    padding-top: 30vh;
+    height: 30vh;
+}
+body{
+    border: 2px solid black;
+    /* height: 1000vh; */
+    
+
+}
+.heademail{
+    height: 5vh;
+    animation: Animations ease-in 2s infinite;
+}
+@keyframes Animations {
+    from{
+        rotate: 0deg;
+    }
+    to{
+        rotate: 360deg;
+    }
+    
+}
+
+table{
+    border: 2px solid black;
+}
+.p h1{
+    color: red;   
+}
+
+.bold{
+    color: red;
+font-size: 28px;
+}
+.i{
+    font-size: 22px;
+    color: white;
+    /* height: 1200px; */
+    /* padding-top: 14px; */
+}
+.video{
+    padding-left: 26vw;
+    border: 4px solid black;
+}
+.receiver{
+    position: absolute;
+    right: 4vw;
+    height: 40vh;
+    /* transform: rotate(290deg); */
+}
+.hi{
+    transform: translate(5px);
+}
+.delivery{
+    color: red;
+}
+.imageemail{
+    height: 28vh;
+    width: 16vw;
+    animation: imageemail 2s ease-in infinite;
+}
+
+.background{
+    height: 144vh;
+    width: 144vh;
+}
+main{
+    background-color: black;
+    /* background-image: url(https://static.india.com/wp-content/uploads/2020/08/internet-speed.jpg); */
+    /* background-image: url(https://1stwebdesigner.com/wp-content/uploads/2019/07/css-background-effects-thumb.jpg); */
+}
+.h2{
+    color: red;
+}
+.stepsemail{
+    color: white;
+    font-size: 22px;
+}
+.hello{
+    color: white;
+    font-size: 22px;
+}
+.steps{
+    color: red;
+}
+body{
+    background-color: black;
+    height: 1050px;
+    /* background-image: url(https://static.india.com/wp-content/uploads/2020/08/internet-speed.jpg); */
+}
+.table{
+    color: white;
+    /* background-image: url(https://res.cloudinary.com/dte7upwcr/image/upload/f_auto,w_1500/blog/blog2/o-que-e-email-marketing/o-que-e-email-marketing-img_header.jpg); */
+
+}
+.name{
+    color: white;
+}
+.name{
+font-size: 24px;
+}
+
+.table{
+    font-size: 30px;   
+}
+.tab{
+    border: 4px solid aqua;
+
+    
+}
+.developer{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    animation: Developer 8s ease-in infinite;
+    border: 2px solid aqua;
+    width: 14vw;
+    position: relative;
+    left: 42vw;
+    bottom: 12vh;
+    
+
+}
+.thankyouforvisting{
+    color: white;
+    font-size: 22px;
+    text-align: center;
+}
+.namaste{
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    /* border: 2px solid aqua; */
+}
+table{
+    border: 4px solid aqua;
+}
+@keyframes Developer {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+    
+}
+.history{
+    color: white;
+     font-size: 25px;
+}
+ .org{
+     color: red;
+     text-align: center;
+
+ }
+ .ray{
+     height: 24vh;
+     width: 14vw;
+     display: inline;
+ }
+ .boy{
+     color: white;
+     font-size: 18px;
+     position: relative;
+     left: 2vw;
+     
+    }
+    .ra{
+        color: white;
+        font-size: 18px;
+        position: relative;
+        transform: translate(210px);
+        bottom: 4vh;
+ 
+ }
+.tom{
+   transform: translate(14px);
+    height: 24vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    border: 2px solid brown;
+}
+.working{
+    text-align: center;
+    transform: translate(350px);
+    
+    
+}
+.arpanet{
+    height: 150px;
+    width: 250px;
+    position: absolute;
+}
+.bro{
+    color: white;
+    font-size: 14px;
+    transform: translate(380px);
+    position: absolute;   
+
+}
+.tomy{
+    color: red;
+}
+
+
+.usesofemail{
+    color: red;
+    text-align: center;
+}
+.informationuses{
+    color: white;
+    font-size: 22px;
+}
+.computerwithemail{
+    height: 26vh;
+    width: 16vw;
+}
+.random{
+    height: 25vh;
+    border: 2px solid brown;
+    width: 18vw;
+    text-align: center;
+    transform: translate(2vw);
+}
+.white{
+    text-align: center;
+    color: white;
+    position: relative;
+    left: 52vw;
+    bottom: 6vh;
+    
+}
+.long{
+    height: 30vh;
+    width: 135vh;
+    border: 2px solid brown;
+}
+.onlineemail{
+    color: red;
+    text-align: center;
+}
+.h2{
+    text-align: center;
+}
+.nice{
+    height: 26vh;
+}
+.sender{
+    padding-top: 14px;
+
+}
+.bishwas{
+    color: white;
+    font-size: 22px;
+}
+.importance{
+    color: white;
+    font-size: 22px;
+}
+.advantage{
+    text-align: center;
+    color: red;
+}
+    .em{
+        height: 24vh;
+        border: 2px solid brown;
+        transform: translate(3vw);
+    }
+    .dis{
+        height: 24vh;
+        border: 2px solid brown;
+        transform: translate(3vw);
+    }
+    .from{
+        color: red;
+    }
+    .emailintroduction{
+        text-align: center;
+        color: red;
+        
+    }
+    .rayin{
+        color: red;
+    }
+    .stepslist{
+        color: white;
+        font-size: 22px;
+        text-align: center;
+    }
+    .disadvantagesemail{
+        color: red;
+        text-align: center;
+    }
+    .workmethod{
+        color: white;
+        font-size: 22px;
+        padding-left: 24px;
+    }
+    
+    .disa{
+        color: white;
+        font-size: 30px;
+        text-align: center;
+    }
+    .saywork{
+        transform: translate(350px);
+    }
+    
+.work{
+    color: red;
+    text-align: center;
+    /* animation: work 4s ease-in infinite; */
+}
+@keyframes work {
+    0%{
+        transform: translate(0.1vh);
+    }
+    100%{
+        transform: translate(34vh);
+    }
+    /* 100%{ */
+        /* transform: translateZ(1004vh); */
+    /* } */
+    
+}
+@keyframes imageemail {
+    from{
+        transform: translate(2px);
+    }
+    to{
+        transform: translate(50vw);
+    }
+    
+}
+
+    
